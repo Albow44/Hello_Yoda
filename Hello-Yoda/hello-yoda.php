@@ -45,7 +45,7 @@ function my_menu_pages(){
 
 // Content of the main menu page
 function my_menu_output(){
-	echo '<h1>The Hello Yoda Plugin by Josh</h1>
+	echo '<h1>The Hello Yoda Plugin by Alan</h1>
 	<p>"Pass on what you have learned." --Yoda </p>';
 }
 
